@@ -2,3 +2,5 @@
 ## prèsentation
 ###  IA auto-ajustables
 
+![moi en anime](me_8.png)
+
