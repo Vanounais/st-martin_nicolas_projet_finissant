@@ -1,11 +1,19 @@
-# st-martin_nicolas_projet_finissant  
-## prèsentation  
-###  IA auto-ajustables  
-Capable d’apprendre, de réapprendre et de s’adapter de manière auntonome.  
-![moi en anime](images/presentation/ai_image.jpg)  
+#  L'Inteligence Artificielle
+## Qu'est-ce que c'est
+L'intelligence artificielle est un processus d'imitation de l'intelligence humaine qui repose sur la création et l'application d'algorithmes exécutés dans un environnement informatique dynamique. Son but est de permettre à des ordinateurs de penser et d'agir comme des êtres humains.  
 
-###  Exemple générée par une AI  
-![moi en anime](images/presentation/me_8.png)  
+Pour y parvenir, trois composants sont nécessaires :  
 
-### Idée d'utilisation en multimedia  
-Clue avec des AI  
+- Des systèmes informatiques  
+- Des données avec des systèmes de gestion  
+- Des algorithmes d'IA avancés (code)  
+
+Pour se rapprocher le plus possible du comportement humain, l'intelligence artificielle a besoin d'une quantité de données et d'une capacité de traitement élevées.  
+
+## Paranthèse sur l'IA adaptative  
+L’intelligence artificielle adaptative, contrairement aux systèmes d’IA traditionnels, peut réviser son propre code pour s’adapter aux changements du monde réel qui n’étaient pas connus ou prévus lorsque le code a été écrit. Les organisations qui intègrent ainsi l’adaptabilité et la résilience dans leur conception peuvent réagir plus rapidement et plus efficacement aux perturbations.  
+
+### Application Multimedia  
+The Next Rembrandt : https://youtu.be/IuygOYZ1Ngo  
+
+"Auriez-vous pu dire que ce portrait n’avait pas été peint de la main de Rembrandt? Bien honnêtement, pas nous."
