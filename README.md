@@ -17,4 +17,8 @@ L’intelligence artificielle adaptative, contrairement aux systèmes d’IA tra
 ### The Next Rembrandt (2016)  
 L'idée générale du projet est de créer le prochain Rembrandt en faisant usage de l’intelligence artificielle. Pour ce faire, une équipe de 20 spécialistes dans différents domaines a été assemblée. Celle-ci a étudié les 346 œuvres peintes par l’artiste néerlandais à l’aide de différents programmes et a réussi l’impossible, soit celui de créer un nouveau portrait et de l’imprimer en trois dimensions.  
 #### The Next Rembrandt (4:20)  
+- 1:43 : Data 
+- 2:20 : Features
+- 2:54 : Height map
+
 [![The Next Rembrandt](images/presentation/rembrandt.jpg)](https://youtu.be/IuygOYZ1Ngo)
