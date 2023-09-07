@@ -15,6 +15,9 @@ L’intelligence artificielle adaptative, contrairement aux systèmes d’IA tra
 
 ### Application Multimedia  
 The Next Rembrandt  
+- 1:42 Data récupéré sur les oeuvres de Rembrandt
+- 2:20 Généré les "features"
+- 2:54 créer une image 3D (Height Map)
+
 [![The Next Rembrandt](images/presentation/rembrandt.jpg)](https://youtu.be/IuygOYZ1Ngo)  
 "Auriez-vous pu dire que ce portrait n’avait pas été peint de la main de Rembrandt? Bien honnêtement, pas nous."
-
