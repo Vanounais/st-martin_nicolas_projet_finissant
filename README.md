@@ -14,6 +14,7 @@ Pour se rapprocher le plus possible du comportement humain, l'intelligence artif
 L’intelligence artificielle adaptative, contrairement aux systèmes d’IA traditionnels, peut réviser son propre code pour s’adapter aux changements du monde réel qui n’étaient pas connus ou prévus lorsque le code a été écrit. Les organisations qui intègrent ainsi l’adaptabilité et la résilience dans leur conception peuvent réagir plus rapidement et plus efficacement aux perturbations.  
 
 ### Application Multimedia  
-The Next Rembrandt : https://youtu.be/IuygOYZ1Ngo  
-
+The Next Rembrandt  
+[![The Next Rembrandt](images/presentation/rembrandt.jpg)](https://youtu.be/IuygOYZ1Ngo)  
 "Auriez-vous pu dire que ce portrait n’avait pas été peint de la main de Rembrandt? Bien honnêtement, pas nous."
+
