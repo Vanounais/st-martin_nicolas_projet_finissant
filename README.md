@@ -21,4 +21,4 @@ L'idée générale du projet est de créer le prochain Rembrandt en faisant usag
 - 2:20 : Features
 - 2:54 : Height map
 
-[![The Next Rembrandt](images/presentation/rembrandt.jpg)](https://youtu.be/IuygOYZ1Ngo)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/IuygOYZ1Ngo?si=GDN0qb5Gu-SqpJct" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
