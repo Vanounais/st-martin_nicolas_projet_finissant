@@ -10,4 +10,5 @@ La projection pourrait être différente entre chaque moment où quelqu'un appar
 
 ## idée de projection sur le miroir
 - Un apperçu du futur entre autre pour dénoncé la polution, le réchauffement climatique ou autre problématique qui ont un impaque majeure sur notre futur.
-- Les parents d'Harry Potter.
+- Les parents d'Harry Potter.  
+![Harry Potter](images/presentation/Harry-lol.gif)
