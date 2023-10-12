@@ -1,18 +1,14 @@
-#  Miroir Magique  
+#  Fractal  
 ## Concept  
-Un miroir augmenté avec de la réalité augmenté projetté sur le miroir en question.  
-La projection pourrait être différente quand on sort et entre dans le champ de vision du miroir.
-
-## Type de miroir  
-![type de miroir](images/presentation/miroir.jpg)  
+Une expérience VR contemplative dans la quel on utiliserais la technologie du Ray Marching pour se promener dans un univers de fractal et de form complexe mais agréable a regarder
 
 ## Aspect technique  
-Comme je ne suis pas sûr que la projection se voie très bien je pensais plus à un faux miroir avec une caméra qui filme devant elle et qui retrensemet en direct l'image dans l'ordinateur pour que le projecteur la projette.
+Utilise la technologie du Ray Marching qui consiste pour resumer a créer des animations complexe avec du code.
 
-## Idée de projection sur le miroir  
-- Un apperçu du futur entre autre pour dénoncé la polution, le réchauffement climatique ou autre problématique qui ont un impaque majeure sur notre futur.
-- Les parents d'Harry Potter.  
-![Harry Potter](images/presentation/Harry-lol.gif)  
+![ray marching](images/presentation/fractal_complexe.jpg)  
+![ray marching](images/presentation/fractal_simple.gif)  
+### exemple code :  
+https://www.shadertoy.com/view/ts3XR7
 
-## Exemple de Miroir Magique 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YXzvnnJD7oQ?si=ebk6SbxB4iPcubup" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>  
+## Exemple du fonctionnement du Ray Marching
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Cp5WWtMoeKg?si=Iy_nLR7W60akc9IK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>  
