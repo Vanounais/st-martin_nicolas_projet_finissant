@@ -1,5 +1,5 @@
-#  Fractal  
-## Concept 
+#  Fractal
+## Concept
 Une expérience de projection contemplative dans là quel on utiliserait la technique du Ray Marching pour se promener dans un environnement fait de fractale et de forme complexe mais agréable à regarder.  
 L'utilisation du Ray Marching pour ce projet est intéressante car les animations et l'environnement seraient créer majoritairement grace à du code.
 
