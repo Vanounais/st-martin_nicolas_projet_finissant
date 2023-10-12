@@ -16,6 +16,7 @@ https://youtu.be/Cp5WWtMoeKg
 
 ## Mise en place
 Le projet pourrait être présenté à l'entrée de l'école en intérieur où n’importe quel autre mur ou il serait intéressant d'y projeter des images et où il y a de la place pour y mettre un projecteur qui projèterais des images depuis un ordinateur.  
+![ray marching](images/presentation/espace_fractal.png)
 
 ## Exemple de Projet avec du Ray Marching
 <iframe width="560" height="315" src="https://www.youtube.com/embed/N1oKIbDqo8g?si=RrnpQ-KhIfEWxiU_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>  
