@@ -3,7 +3,9 @@
 
 
 - unity
+- comu
 
 
 expérience sociale :
 1. une planète vide
+2. possibilité de rajouter des élément sur la planète via des boutton
