@@ -6,4 +6,4 @@ Trouver une manière de faire apparaitre certain objets de plus en plus nombreux
 ![prototype](images/presentation/prototype.gif)
 
 ## Validation
-C'est possible, ca marche, c'est vraiment merveilleux.
+C'est possible, ca marche, c'est vraiment 🌈🦄𝓶𝓮𝓻𝓿𝓮𝓲𝓵𝓵𝓮𝓾𝔁🦄🌈.
