@@ -1,11 +1,8 @@
-[god simulator planet](https://cryingcavecat.itch.io/chronospark)  
-[god simulator island](https://store.steampowered.com/app/509440/God_Simulator/)  
+# Evolution Boom
+Une planète vide à la quel tout le monde participe à son évolution, le but étant de voir combien de personnes participe à son évolution et qui préfaire simplement laisser la planète faire BOOOOOM!!!
 
+## Prototype
+Trouver une manière de faire apparaitre certain objets de plus en plus nombreux à chaque fois qu'on appuie sur un bouton.
 
-- unity
-- comu
-
-
-expérience sociale :
-1. une planète vide
-2. possibilité de rajouter des élément sur la planète via des boutton
+## Validation
+C'est possible, ca marche, c'est vraiment merveilleux.
