@@ -4,7 +4,7 @@ Une planète vide dans la quel tout le monde peut participe à son évolution, l
 
 ## Prototype
 Trouver une manière de faire apparaitre certains objets de plus en plus nombreux à chaque fois qu'on appuie sur un bouton.
-![prototype](images/presentation/prototype.gif)
+![prototype](images/presentation/prototype2.gif)
 
 ## Validation
 C'est possible, ça marche, c'est vraiment 🌈🦄𝓶𝓮𝓻𝓿𝓮𝓲𝓵𝓵𝓮𝓾𝔁🦄🌈.
