@@ -4,6 +4,8 @@ Une planète vide dans la quel tout le monde peut participe à son évolution, l
 
 ## Prototype
 Trouver une manière de faire apparaitre certains objets de plus en plus nombreux à chaque fois qu'on appuie sur un bouton.  
+
+###### Voici un GIF de bonne qualité
 ![prototype](images/presentation/prototype.gif)
 
 ## Validation
