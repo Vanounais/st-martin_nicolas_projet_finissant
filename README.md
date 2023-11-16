@@ -7,6 +7,7 @@ Trouver une manière de faire apparaitre certains objets de plus en plus nombreu
 
 ###### Voici un GIF de bonne qualité
 ![prototype](images/presentation/prototype.gif)
+![prototype](images/presentation/codeCUSP.png)
 
 ## Validation
 C'est possible, ça marche, c'est vraiment 🌈🦄𝓶𝓮𝓻𝓿𝓮𝓲𝓵𝓵𝓮𝓾𝔁🦄🌈.
